@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Hadeel Mtyab 👋
 
-<!--
-**hadeelmtyab/hadeelmtyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Graduate | Data Analytics Enthusiast | Power BI
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science graduate with a background in Cybersecurity and technical education. I'm currently expanding my skills in Data Analytics and Business Intelligence, with a focus on transforming data into meaningful insights.
+
+### 💻 Technical Skills
+
+- **Data Visualization:** Microsoft Power BI
+- **Data Preparation:** Power Query
+- **Data Analysis:** Microsoft Excel
+- **Database:** SQL
+- **Programming:** Python
+- **Background:** Computer Science & Cybersecurity
+
+### 📊 Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- Dashboard Development
+- Data-Driven Decision Making
+
+### 🚀 Featured Portfolio
+
+Explore my projects and practical work:
+
+[Data Analytics Portfolio](https://github.com/hadeelmtyab/data-analytics-portfolio)
+
+### 🎯 Career Goal
+
+Seeking opportunities in Data Analytics and Business Intelligence to apply my technical background, analytical thinking, and problem-solving skills.
+
+### 📫 Let's Connect
+
+- GitHub: [@hadeelmtyab](https://github.com/hadeelmtyab)
+
+---
+
+*Always learning. Always analyzing. Always improving.*
